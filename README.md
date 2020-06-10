@@ -1,2 +1,5 @@
 # convert-google-drive-links
-convert google drive links to host images
+python script to convert google drive links for  hosting images
+
+How to use
+script takes path to your txt file with links you want to convert
